@@ -5,6 +5,8 @@ The Citi Bike Analytics assignment examines the impact on bike rentals in 2020 d
 
 [Tableau Notebook](https://public.tableau.com/profile/christy.patrick#!/vizhome/CitiBikeAnalytics_16099853300790/Story) link
 
+Note:  In preparing the data, outliers have been removed.  For example, the birth year has been filtered to remove any record with a year older than 1940.
+
 ## Map Visualizations 
 To begin, all starting stations have been plotted on a map of New York City with the markers sized and colored based on the number of rentals in the summer of 2020.  Similarly, a map was created with all ending stations with the markers sized and colored based on the number of rentals in the summer of 2020.  The starting stations map indicates that a majority of rentals occured from Midtown Manhattan to Lower Manhattan.  The most popular starting location is 12th Ave & W 40th Street with 39,243 rentals in the summer of 2020.  The ending stations map also indicates that a majority of rental stops occured from Midtown Manhattan to Lower Manhattan.  The most popular starting location is 12th Ave & W 40th Street with 39,539 rentals in the summer of 2020.    
 
